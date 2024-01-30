@@ -12,8 +12,8 @@
 
 Follow the steps below to set up the notebook:
 - Have the [JupyterLab](https://jupyter.org/install) environment ready.
-- Download the notebook file by clicking on the download icon at the top of the webpage when visiting the notebook pages.
-- Open the notebook file and start working on the tasks.
+- Download the python coding warm-up [GitHub repository](https://github.com/MultiX-Amsterdam/python-warm-up). Or you can also download the zip file from [this link](https://github.com/MultiX-Amsterdam/python-warm-up/archive/refs/heads/main.zip).
+- Open the notebook file (`docs/python-warm-up-notebook.ipynb`) and start working on the tasks.
 
 Follow the steps below to do the tasks:
 - First, for each task, try your best to implement the solution without checking the answer.
