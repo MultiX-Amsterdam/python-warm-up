@@ -7,8 +7,6 @@ author: Yen-Chia Hsu
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
-  exclude_patterns:
-    - "docs/*"
   execute_notebooks: cache
   timeout: 600
 

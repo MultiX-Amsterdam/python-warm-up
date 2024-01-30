@@ -2,9 +2,9 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: docs/assignment-python-warm-up
+root: docs/python-warm-up
 parts:
 - caption:
   chapters:
-  - file: docs/assignment-python-warm-up-notebook
+  - file: docs/python-warm-up-notebook
     title: "Notebook"
