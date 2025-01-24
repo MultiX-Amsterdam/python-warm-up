@@ -1,4 +1,9 @@
 # python-warm-up
+
+```diff
++ This README file is for TAs and teachers who develop the course materials, NOT for students.
+```
+
 This repository hosts the teaching materials for python coding warm-up in the [UvA Data Science course](https://multix.io/data-science-book-uva/).
 
 All the content in this repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
